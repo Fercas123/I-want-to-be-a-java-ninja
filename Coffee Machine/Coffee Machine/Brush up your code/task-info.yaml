@@ -271,6 +271,120 @@ files:
         }
     }
   learner_created: false
+- name: src/machine/CoffeeMachine.java
+  visible: true
+  text: |
+    package machine;
+
+    import java.util.Scanner;
+
+    public class CoffeeMachine {
+        public static void main(String[] args) {
+            Scanner scanner = new Scanner(System.in);
+
+            int money = 550;
+            int water = 400;
+            int milk = 540;
+            int coffee = 120;
+            int disposableCups = 9;
+            boolean programOn = true;
+
+            while (programOn) {
+                System.out.println("Write action (buy, fill, take, remaining, exit):");
+                String action = scanner.next();
+                switch (action) {
+                    case "remaining":
+                        PrintStatus(money, water, milk, coffee, disposableCups);
+                        break;
+                    case "buy":
+                        System.out.println("What do you want to buy? 1 - espresso, 2 - latte, 3 - cappuccino, back - to main menu:");
+                        String purchase = scanner.next();
+                        switch (purchase) {
+                            case "1":
+                                if (water >= 250 && coffee >= 16) {
+                                    water -= 250;
+                                    coffee -= 16;
+                                    money += 4;
+                                    System.out.println("I have enough resources, making you a coffee!");
+                                    disposableCups--;
+                                } else {
+                                    String missingItem = water < 250 ? "water" : "coffee";
+                                    System.out.println("Sorry, not enough " + missingItem + "!");
+                                }
+                                break;
+                            case "2":
+                                if (water >= 350 && coffee >= 20 && milk >= 75) {
+                                    water -= 350;
+                                    milk -= 75;
+                                    coffee -= 20;
+                                    money += 7;
+                                    System.out.println("I have enough resources, making you a coffee!");
+                                    disposableCups--;
+                                } else {
+                                    String missingItem = water < 250 ? "water" : coffee < 20 ? "coffee" : "milk";
+                                    System.out.println("Sorry, not enough " + missingItem + "!");
+                                }
+                                break;
+                            case "3":
+                                if (water >= 200 && coffee >= 12 && milk >= 100) {
+                                    water -= 200;
+                                    milk -= 100;
+                                    coffee -= 12;
+                                    money += 6;
+                                    System.out.println("I have enough resources, making you a coffee!");
+                                    disposableCups--;
+                                } else {
+                                    String missingItem = water < 200 ? "water" : coffee < 12 ? "coffee" : "milk";
+                                    System.out.println("Sorry, not enough " + missingItem + "!");
+                                }
+                                break;
+                            default:
+                                break;
+                        }
+                        break;
+                    case "fill":
+                        System.out.println("Write how many ml of water do you want to add:");
+                        int newWater = scanner.nextInt();
+                        water += newWater;
+                        System.out.println("Write how many ml of milk do you want to add:");
+                        int newMilk = scanner.nextInt();
+                        milk += newMilk;
+                        System.out.println("Write how many grams of coffee beans do you want to add:");
+                        int newCoffee = scanner.nextInt();
+                        coffee += newCoffee;
+                        System.out.println("Write how many disposable cups of coffee do you want to add:");
+                        int newCups = scanner.nextInt();
+                        disposableCups += newCups;
+                        break;
+                    case "take":
+                        money = TakeTheMoney(money);
+                        break;
+                    case "exit":
+                        programOn = false;
+                        break;
+                    default:
+                        System.out.println("I don't understand that command");
+                        break;
+                }
+            }
+        }
+
+        private static int TakeTheMoney(int money) {
+            System.out.println("I gave you $" + money);
+            money = 0;
+            return money;
+        }
+
+        private static void PrintStatus(int money, int water, int milk, int coffee, int disposableCups) {
+            System.out.println("The coffee machine has:");
+            System.out.println(water + " of water");
+            System.out.println(milk + " of milk");
+            System.out.println(coffee + " of coffee beans");
+            System.out.println(disposableCups + " of disposable cups");
+            System.out.println(money > 0 ? "$" + money + " of money" : "0 of money");
+        }
+    }
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/33/stages/180/implement
-status: Unchecked
+status: Solved
 record: -1
