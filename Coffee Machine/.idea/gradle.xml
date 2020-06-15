@@ -17,6 +17,7 @@
             <option value="$PROJECT_DIR$/Problems/Accounts" />
             <option value="$PROJECT_DIR$/Problems/Books" />
             <option value="$PROJECT_DIR$/Problems/Car" />
+            <option value="$PROJECT_DIR$/Problems/Cinema" />
             <option value="$PROJECT_DIR$/Problems/Circle" />
             <option value="$PROJECT_DIR$/Problems/Complex numbers" />
             <option value="$PROJECT_DIR$/Problems/Cyclically shifting elements" />
@@ -25,9 +26,11 @@
             <option value="$PROJECT_DIR$/Problems/Geometric cube" />
             <option value="$PROJECT_DIR$/Problems/Project constants and methods" />
             <option value="$PROJECT_DIR$/Problems/Right Rotation" />
+            <option value="$PROJECT_DIR$/Problems/Rotate a rectange array" />
             <option value="$PROJECT_DIR$/Problems/Simulating a clock" />
             <option value="$PROJECT_DIR$/Problems/The secret enumeration" />
             <option value="$PROJECT_DIR$/Problems/The sequence" />
+            <option value="$PROJECT_DIR$/Problems/The star figure" />
             <option value="$PROJECT_DIR$/Problems/The sum of array elements" />
             <option value="$PROJECT_DIR$/Problems/Too many cats" />
             <option value="$PROJECT_DIR$/util" />
