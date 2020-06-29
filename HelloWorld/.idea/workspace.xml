@@ -19,7 +19,284 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9023f6f-b1ea-4ea1-b3cc-29ed17d71d49" name="Default Changelist" comment="" />
+    <list default="true" id="e2a38c04-375a-4d46-b9f5-551170cb2c3d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset_91033.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset_91069.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FindYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SumNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/FindYear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/HelloWorld.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/SumNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/libraries/Gradle__com_cedarsoftware_json_io_4_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/libraries/Gradle__com_github_hyperskill_hs_test_v7_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/libraries/Gradle__com_github_stefanbirkner_system_rules_1_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/libraries/Gradle__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/libraries/Gradle__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/libraries/Gradle__org_assertj_assertj_core_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/libraries/Gradle__org_assertj_assertj_swing_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/libraries/Gradle__org_assertj_assertj_swing_junit_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/libraries/Gradle__org_easytesting_fest_reflect_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/libraries/Gradle__org_easytesting_fest_util_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Advanced calculator/Problems-Advanced_calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Advanced calculator/Problems-Advanced_calculator_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Advanced calculator/Problems-Advanced_calculator_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Are siblings?/Problems-Are_siblings_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Are siblings?/Problems-Are_siblings__main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Are siblings?/Problems-Are_siblings__test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Area of a circle/Problems-Area_of_a_circle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Area of a circle/Problems-Area_of_a_circle_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Area of a circle/Problems-Area_of_a_circle_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Army/Problems-Army.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Army/Problems-Army_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Army/Problems-Army_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Avoid division by zero/Problems-Avoid_division_by_zero.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Avoid division by zero/Problems-Avoid_division_by_zero_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Avoid division by zero/Problems-Avoid_division_by_zero_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Basic calculator/Problems-Basic_calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Basic calculator/Problems-Basic_calculator_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Basic calculator/Problems-Basic_calculator_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Binary search/Problems-Binary_search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Binary search/Problems-Binary_search_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Binary search/Problems-Binary_search_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Book/Problems-Book.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Book/Problems-Book_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Book/Problems-Book_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Catching some exceptions/Problems-Catching_some_exceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Catching some exceptions/Problems-Catching_some_exceptions_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Catching some exceptions/Problems-Catching_some_exceptions_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Classes for Hospital/Problems-Classes_for_Hospital.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Classes for Hospital/Problems-Classes_for_Hospital_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Classes for Hospital/Problems-Classes_for_Hospital_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Complex/Problems-Complex.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Complex/Problems-Complex_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Complex/Problems-Complex_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Convert a date/Problems-Convert_a_date.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Convert a date/Problems-Convert_a_date_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Convert a date/Problems-Convert_a_date_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Converting and multiplying/Problems-Converting_and_multiplying.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Converting and multiplying/Problems-Converting_and_multiplying_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Converting and multiplying/Problems-Converting_and_multiplying_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Creating instances/Problems-Creating_instances.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Creating instances/Problems-Creating_instances_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Creating instances/Problems-Creating_instances_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Distance/Problems-Distance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Distance/Problems-Distance_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Distance/Problems-Distance_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Find X/Problems-Find_X.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Find X/Problems-Find_X_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Find X/Problems-Find_X_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Fixing the main method (1)/Problems-Fixing_the_main_method__1_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Fixing the main method (1)/Problems-Fixing_the_main_method__1__main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Fixing the main method (1)/Problems-Fixing_the_main_method__1__test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Fixing the main method/Problems-Fixing_the_main_method.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Fixing the main method/Problems-Fixing_the_main_method_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Fixing the main method/Problems-Fixing_the_main_method_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Get first and last elements/Problems-Get_first_and_last_elements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Get first and last elements/Problems-Get_first_and_last_elements_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Get first and last elements/Problems-Get_first_and_last_elements_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Getting the fullname/Problems-Getting_the_fullname.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Getting the fullname/Problems-Getting_the_fullname_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Getting the fullname/Problems-Getting_the_fullname_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Inverse boolean flags/Problems-Inverse_boolean_flags.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Inverse boolean flags/Problems-Inverse_boolean_flags_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Inverse boolean flags/Problems-Inverse_boolean_flags_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Move the first N characters/Problems-Move_the_first_N_characters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Move the first N characters/Problems-Move_the_first_N_characters_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Move the first N characters/Problems-Move_the_first_N_characters_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Palindrome/Problems-Palindrome.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Palindrome/Problems-Palindrome_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Palindrome/Problems-Palindrome_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Parameters and their values/Problems-Parameters_and_their_values.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Parameters and their values/Problems-Parameters_and_their_values_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Parameters and their values/Problems-Parameters_and_their_values_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Preparing full name/Problems-Preparing_full_name.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Preparing full name/Problems-Preparing_full_name_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Preparing full name/Problems-Preparing_full_name_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Print &quot;We are robots!&quot;/Problems-Print__We_are_robots!_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Print &quot;We are robots!&quot;/Readability_Score-Problems-Print__We_are_robots!__main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Print &quot;We are robots!&quot;/Readability_Score-Problems-Print__We_are_robots!__test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Sorting arrays/Problems-Sorting_arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Sorting arrays/Problems-Sorting_arrays_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Sorting arrays/Problems-Sorting_arrays_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Sorting numbers/Problems-Sorting_numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Sorting numbers/Problems-Sorting_numbers_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/Sorting numbers/Problems-Sorting_numbers_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/String to double conversion/Problems-String_to_double_conversion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/String to double conversion/Problems-String_to_double_conversion_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Problems/String to double conversion/Problems-String_to_double_conversion_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Readability Score/task/Readability_Score-task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Readability Score/task/Readability_Score-task_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Readability Score/task/Readability_Score-task_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Readability_Score.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/util/util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/util/util_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/util/util_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Advanced calculator/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Advanced calculator/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Advanced calculator/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Advanced calculator/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Are siblings?/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Are siblings?/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Are siblings?/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Are siblings?/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Area of a circle/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Area of a circle/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Area of a circle/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Area of a circle/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Army/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Army/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Army/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Army/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Avoid division by zero/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Avoid division by zero/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Avoid division by zero/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Avoid division by zero/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Basic calculator/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Basic calculator/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Basic calculator/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Basic calculator/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Binary search/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Binary search/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Binary search/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Binary search/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Book/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Book/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Book/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Book/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Catching some exceptions/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Catching some exceptions/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Catching some exceptions/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Catching some exceptions/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Classes for Hospital/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Classes for Hospital/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Classes for Hospital/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Classes for Hospital/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Complex/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Complex/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Complex/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Complex/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Converting and multiplying/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Converting and multiplying/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Converting and multiplying/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Converting and multiplying/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Creating instances/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Creating instances/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Creating instances/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Creating instances/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Distance/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Distance/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Distance/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Distance/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Find X/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Find X/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Find X/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Find X/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Fixing the main method (1)/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Fixing the main method (1)/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Fixing the main method (1)/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Fixing the main method (1)/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Fixing the main method/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Fixing the main method/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Fixing the main method/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Fixing the main method/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Get first and last elements/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Get first and last elements/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Get first and last elements/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Get first and last elements/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Getting the fullname/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Getting the fullname/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Getting the fullname/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Getting the fullname/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Inverse boolean flags/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Inverse boolean flags/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Inverse boolean flags/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Inverse boolean flags/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Move the first N characters/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Move the first N characters/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Move the first N characters/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Move the first N characters/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Palindrome/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Palindrome/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Palindrome/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Palindrome/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Parameters and their values/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Parameters and their values/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Parameters and their values/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Parameters and their values/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Preparing full name/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Preparing full name/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Preparing full name/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Preparing full name/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Print &quot;We are robots!&quot;/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Print &quot;We are robots!&quot;/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Print &quot;We are robots!&quot;/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Print &quot;We are robots!&quot;/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Sorting arrays/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Sorting arrays/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Sorting arrays/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Sorting arrays/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Sorting numbers/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Sorting numbers/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Sorting numbers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/Sorting numbers/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/String to double conversion/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/String to double conversion/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/String to double conversion/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Problems/String to double conversion/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Readability Score/More parameters/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Readability Score/More parameters/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Readability Score/More parameters/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Readability Score/Score!/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Readability Score/Score!/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Readability Score/Score!/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Readability Score/Simplest estimation/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Readability Score/Simplest estimation/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Readability Score/Simplest estimation/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Readability Score/Words and sentences/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Readability Score/Words and sentences/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Readability Score/Words and sentences/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Readability Score/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Readability Score/task/src/readability/Easyiness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Readability Score/task/src/readability/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/Readability Score/task/test/ReadabilityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/course-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/course-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,13 +305,20 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1d9ABk5Ly7qcqdGPNkCxRT2688e" />
+  <component name="ProjectId" id="1daS0GIybSJOBU6O1IuFWxfl3Cv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -43,22 +327,59 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FindYear">
+    <configuration name="FindYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindYear" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumFromFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumFromFile" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumNumbers" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FindYear" />
+        <item itemvalue="Application.SumNumbers" />
+        <item itemvalue="Application.SumFromFile" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f9023f6f-b1ea-4ea1-b3cc-29ed17d71d49" name="Default Changelist" comment="" />
-      <created>1591826801535</created>
+      <changelist id="e2a38c04-375a-4d46-b9f5-551170cb2c3d" name="Default Changelist" comment="" />
+      <created>1592661485963</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1591826801535</updated>
+      <updated>1592661485963</updated>
     </task>
     <servers />
   </component>
@@ -74,26 +395,73 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1326" y="-119" key="#Inspections" timestamp="1591865512191">
-      <screen x="-1920" y="-344" width="1920" height="1080" />
+    <state x="328" y="106" key="#Project_Structure" timestamp="1592681140830">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="-1326" y="-119" key="#Inspections/0.0.1680.1050/-1920.-344.1920.1080@-1920.-344.1920.1080" timestamp="1591865512191" />
-    <state x="656" y="99" key="#Project_Structure" timestamp="1591826833060">
+    <state x="328" y="106" key="#Project_Structure/0.0.1680.1050@0.0.1680.1050" timestamp="1592681140830" />
+    <state x="857" y="195" key="#xdebugger.evaluate" timestamp="1592739512568">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="656" y="99" key="#Project_Structure/0.23.1680.1027@0.23.1680.1027" timestamp="1591826833060" />
-    <state x="-1496" y="-142" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591865878665">
-      <screen x="-1920" y="-344" width="1920" height="1080" />
+    <state x="857" y="176" key="#xdebugger.evaluate/0.0.1680.1050@0.0.1680.1050" timestamp="1592738637746" />
+    <state x="857" y="195" key="#xdebugger.evaluate/0.23.1680.1027@0.23.1680.1027" timestamp="1592739512568" />
+    <state width="1638" height="346" key="GridCell.Tab.0.bottom" timestamp="1592815543103">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="-1496" y="-142" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050/-1920.-344.1920.1080@-1920.-344.1920.1080" timestamp="1591865878665" />
-    <state x="-1451" y="-165" key="SettingsEditor" timestamp="1591866079693">
-      <screen x="-1920" y="-344" width="1920" height="1080" />
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom/0.0.1680.1050/-1920.-344.1920.1080@0.0.1680.1050" timestamp="1592815536090" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592738688118" />
+    <state width="1638" height="346" key="GridCell.Tab.0.bottom/0.23.1680.1027/-1920.-344.1920.1080@0.23.1680.1027" timestamp="1592815543102" />
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1592756513660" />
+    <state width="1638" height="346" key="GridCell.Tab.0.center" timestamp="1592815543101">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="-1451" y="-165" key="SettingsEditor/0.0.1680.1050/-1920.-344.1920.1080@-1920.-344.1920.1080" timestamp="1591866079693" />
-    <state x="-1385" y="-139" key="new project wizard" timestamp="1591866078954">
-      <screen x="-1920" y="-344" width="1920" height="1080" />
+    <state width="1638" height="280" key="GridCell.Tab.0.center/0.0.1680.1050/-1920.-344.1920.1080@0.0.1680.1050" timestamp="1592815536088" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592738688116" />
+    <state width="1638" height="346" key="GridCell.Tab.0.center/0.23.1680.1027/-1920.-344.1920.1080@0.23.1680.1027" timestamp="1592815543101" />
+    <state width="1638" height="280" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1592756513659" />
+    <state width="1638" height="346" key="GridCell.Tab.0.left" timestamp="1592815543100">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="-1385" y="-139" key="new project wizard/0.0.1680.1050/-1920.-344.1920.1080@-1920.-344.1920.1080" timestamp="1591866078954" />
-    <state x="468" y="218" key="new project wizard/0.23.1680.1027@0.23.1680.1027" timestamp="1591826913415" />
+    <state width="1638" height="280" key="GridCell.Tab.0.left/0.0.1680.1050/-1920.-344.1920.1080@0.0.1680.1050" timestamp="1592815536087" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592738688115" />
+    <state width="1638" height="346" key="GridCell.Tab.0.left/0.23.1680.1027/-1920.-344.1920.1080@0.23.1680.1027" timestamp="1592815543100" />
+    <state width="1638" height="280" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1592756513659" />
+    <state width="1638" height="346" key="GridCell.Tab.0.right" timestamp="1592815543102">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.right/0.0.1680.1050/-1920.-344.1920.1080@0.0.1680.1050" timestamp="1592815536089" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592738688117" />
+    <state width="1638" height="346" key="GridCell.Tab.0.right/0.23.1680.1027/-1920.-344.1920.1080@0.23.1680.1027" timestamp="1592815543102" />
+    <state width="1638" height="280" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1592756513660" />
+    <state width="1638" height="346" key="GridCell.Tab.1.bottom" timestamp="1592815543105">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592738649481" />
+    <state width="1638" height="346" key="GridCell.Tab.1.bottom/0.23.1680.1027/-1920.-344.1920.1080@0.23.1680.1027" timestamp="1592815543105" />
+    <state width="1638" height="346" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1592739559891" />
+    <state width="1638" height="346" key="GridCell.Tab.1.center" timestamp="1592815543104">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592738649480" />
+    <state width="1638" height="346" key="GridCell.Tab.1.center/0.23.1680.1027/-1920.-344.1920.1080@0.23.1680.1027" timestamp="1592815543104" />
+    <state width="1638" height="346" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1592739559889" />
+    <state width="1638" height="346" key="GridCell.Tab.1.left" timestamp="1592815543103">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592738649479" />
+    <state width="1638" height="346" key="GridCell.Tab.1.left/0.23.1680.1027/-1920.-344.1920.1080@0.23.1680.1027" timestamp="1592815543103" />
+    <state width="1638" height="346" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1592739559889" />
+    <state width="1638" height="346" key="GridCell.Tab.1.right" timestamp="1592815543105">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592738649480" />
+    <state width="1638" height="346" key="GridCell.Tab.1.right/0.23.1680.1027/-1920.-344.1920.1080@0.23.1680.1027" timestamp="1592815543105" />
+    <state width="1638" height="346" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1592739559890" />
+    <state x="349" y="164" key="SettingsEditor" timestamp="1592681586383">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="349" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1592681586383" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HelloWorld$FindYear.ic" NAME="FindYear Coverage Results" MODIFIED="1592739066446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
